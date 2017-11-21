@@ -10,7 +10,7 @@ https://boardgamegeek.com/boardgame/1150/lionheart
 
 
 Context of the project:
-- It's a school project, made in 6 months (January 2015 - June 2015)
+- It's a school project, made in 6 months (January 2016 - June 2016)
 
 
 
@@ -18,13 +18,13 @@ Context of the project:
 The team:
 - We are 4 students of the Top French engineer school Télécom SudParis (EVRY). For us, it was the first big project in Java, using the OOP.
 		
-	-- BOUTANT Thomas
-	-- COISPEL Aldrik
-	-- DUONG Jean-Luc
-	-- MANZANO Nicolas
+	- BOUTANT Thomas
+	- COISPEL Aldrik
+	- DUONG Jean-Luc
+	- MANZANO Nicolas
 
 - Our Referent: 
-	-- BELAÏD Djamel
+	- BELAÏD Djamel
 
 
 
