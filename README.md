@@ -2,17 +2,16 @@
 Java Code of the board game "LionHeart"
 
 
+How many time ?
+- 6 months between January and June 2016
+
 
 Link to the board game:
 - https://boardgamegeek.com/boardgame/1150/lionheart
 
 
-
-
 Context of the project:
 - It's a school project, made in 6 months (January 2016 - June 2016)
-
-
 
 
 The team:
@@ -25,9 +24,6 @@ The team:
 
 - Our Referent: 
 	- BELAÏD Djamel
-
-
-
 
 
 We have used ECLIPSE.
