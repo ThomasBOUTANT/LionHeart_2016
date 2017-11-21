@@ -4,7 +4,7 @@ Java Code of the board game "LionHeart"
 
 
 Link to the board game:
-https://boardgamegeek.com/boardgame/1150/lionheart
+- https://boardgamegeek.com/boardgame/1150/lionheart
 
 
 
