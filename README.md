@@ -1,4 +1,4 @@
-# LionHeart_Board_Game
+# LionHeart_2016
 Java Code of the board game "LionHeart"
 
 
